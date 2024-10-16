@@ -1,0 +1,15 @@
+ex3 answers
+
+6b)the changes are gone
+6c)git restore file3.py
+8a)git revert undo a specific commit by creating a new commit that undoes the changes from the specified commit while git checkout discards local changes in the working directory without touching the commit history
+8c)it deleted the file created 
+10b) the last commit was deleted and the modified files are now in the staging area
+10c)no
+10d)revert could be used instead of reset
+11a)our changes are not in the staging area anymore
+11b)we want to reset to the last commit in a different scope not the one before it
+11c)--mixed
+12a)the changes from last commit are gone from working directory and staging area
+12b)HEAD
+12c)the changes would automatically removed from the working directory and staging area
